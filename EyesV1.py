@@ -50,7 +50,7 @@ print("\033[37mCorrect Password [\033[32m•••\033[37m]")
 time.sleep(1.5)
 os.system("clear")
 
-if password == "FRANKLIN DDOS":
+if password == "#Eyes":
 	print("\033[37mLogin Successfull [\033[32m!\033[37m]")
 	time.sleep(2.5)
 else:
